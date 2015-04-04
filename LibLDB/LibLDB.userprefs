@@ -1,0 +1,28 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LibLDB/ReadClass.cpp">
+    <Files>
+      <File FileName="LibLDB/main.h" Line="4" Column="1" />
+      <File FileName="LibLDB/main.cpp" Line="26" Column="1" />
+      <File FileName="LibLDB/ReadClass.h" Line="21" Column="5" />
+      <File FileName="LibLDB/ReadClass.cpp" Line="23" Column="4" />
+      <File FileName="LibLDB/Debug.h" Line="5" Column="1" />
+      <File FileName="LibLDB/Debug.cpp" Line="1" Column="16" />
+      <File FileName="LibLDB/RPG.h" Line="7" Column="2" />
+      <File FileName="LibLDB/LDB_Chunks.h" Line="26" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="LibLDB" expanded="True">
+            <Node name="RPG.h" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GtkDrawArea/MainWindow.cs">
+    <Files>
+      <File FileName="GtkDrawArea/Main.cs" Line="1" Column="1" />
+      <File FileName="GtkDrawArea/MainWindow.cs" Line="6" Column="4" />
+      <File FileName="GtkDrawArea/AssemblyInfo.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

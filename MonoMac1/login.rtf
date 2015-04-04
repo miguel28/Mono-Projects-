@@ -1,0 +1,59 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww25360\viewh15680\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+
+\f0\fs24 \cf0   Dim JSLogin as String\
+  Dim I as Byte\
+  Dim A as Integer\
+  \
+  If LogState = 0 Then\
+    JSLogin ="var myTextField = document.getElementById('TxtUsuario'); myTextField.value = '" + DefaultUser +"'; myTextField = document.getElementById('TxtPassword'); myTextField.value ='" + DefaultPass +"'; myTextField = document.getElementById('BtnAceptar'); myTextField.value ='Espere....'; myTextField = document.getElementById('BtnAceptar').click();"\
+    call Browser1.EvaluateJavaScriptMBS(JSLogin)\
+    LogState = 1\
+  Elseif LogState = 1 Then\
+    JSLogin ="var myTextField = document.getElementById('BtnSeguir'); myTextField.click();"\
+    call Browser1.EvaluateJavaScriptMBS(JSLogin)\
+    LogState = 2\
+  Elseif LogState = 2 Then\
+    JSLogin ="var myTextField = document.getElementById('DDLStatus'); myTextField.value = 'ABIERTO'; myTextField = document.getElementById('BtnBuscar'); myTextField.value ='Espere....'; myTextField.click();"\
+    call Browser1.EvaluateJavaScriptMBS(JSLogin)\
+    LogState = 3\
+  Elseif LogState = 3 Then\
+    TextArea1.Text=Browser1.mainFrameMBS.dataSource.data\
+    For I = 0 To 20\
+      A = FindWholeWord(TextArea1.Text, Str(I)+" Registros")//Position of String\
+      If A > 0 then\
+        NumReports = I\
+      End if\
+    Next I\
+    ShowInfo\
+    If NumReports > 0 Then MsgBox "Hay " + Str(NumReports) + " Reportes"\
+    Window2.Minimize\
+    \
+    Done = True\
+  End If\
+  \
+  'Dim JSLogin as String ="var myTextField = document.getElementById('TxtUsuario'); myTextField.value = 'Fred Flinstone';"\
+  'call HTMLViewer1.IERunJavaScriptMBS("document.f.q.value='"+TextField1.text+"'")\
+  \
+  //If Plataforma=0 And Done = False then\
+  //call Browser1.IERunJavaScriptMBS(JSLogin)\
+  //Else\
+  //MsgBox "4"\
+  //call Browser1.EvaluateJavaScriptMBS(JSLogin)\
+  //MsgBox "5"\
+  //End if\
+  \
+  //////////////\
+  //dim s as string\
+  \
+  //if TargetWin32 then\
+  //s=HTMLViewer1.IEHTMLTextMBS\
+  //else\
+  //s=HTMLViewer1.mainFrameMBS.dataSource.data\
+  //end if\
+  \
+  //MsgBox s\
+  }

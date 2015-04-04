@@ -1,0 +1,205 @@
+TMonoMac1
+v7
+r0
+t364752663.104934
+cCheck dependencies
+cCompileC build/MonoMac1.build/MonoMac/MonoMac1.build/Objects-normal/i386/MainWindow-9AE896F9D19D97C5.o /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindow.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MonoMac1.build/MonoMac/MonoMac1.build/Objects-normal/i386/MainWindowController-8C9B94B83BFB94C8.o /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindowController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MonoMac1.build/MonoMac/MonoMac1.build/Objects-normal/i386/AppDelegate-7713DF30742946CB.o /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileXIB /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindow.xib
+cCompileXIB /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainMenu.xib
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004D5A27900000000000003430
+t1297754000
+s13360
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D5A279000000000000C7160
+t1297754000
+s815456
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC401D100000000000013E6
+t1287913937
+s5094
+
+N/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/AppDelegate.h
+c00000000500D7369000000000000016E
+t1343058793
+s366
+i<Cocoa/Cocoa.h>
+i<Foundation/Foundation.h>
+
+N/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/AppDelegate.m
+c00000000500D73690000000000000141
+t1343058793
+s321
+i"AppDelegate.h"
+
+N/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainMenu.xib
+c00000000500D70B5000000000002B817
+t1343058101
+s178199
+
+N/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindow.h
+c00000000500D70AC000000000000016D
+t1343058092
+s365
+i<Cocoa/Cocoa.h>
+i<Foundation/Foundation.h>
+
+N/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindow.m
+c00000000500D70AC000000000000013F
+t1343058092
+s319
+i"MainWindow.h"
+
+N/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindow.xib
+c00000000500D778F000000000000678E
+t1343059855
+s26510
+
+N/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindowController.h
+c00000000500D77950000000000000244
+t1343059861
+s580
+i<Cocoa/Cocoa.h>
+i<Foundation/Foundation.h>
+
+N/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindowController.m
+c00000000500D744800000000000001B7
+t1343059016
+s439
+i"MainWindowController.h"
+
+N/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/build/MonoMac/MonoMac1.app
+t2
+s0
+
+N/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/build/MonoMac/MonoMac1.app/Contents/MacOS/MonoMac1
+t2
+s0
+
+N/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/build/MonoMac/MonoMac1.app/Contents/Resources/MainMenu.nib
+t1343059863
+s33544
+
+N/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/build/MonoMac/MonoMac1.app/Contents/Resources/MainWindow.nib
+t1343059862
+s5650
+
+N/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/build/MonoMac1.build/MonoMac/MonoMac1.build/Objects-normal/i386/AppDelegate-7713DF30742946CB.o
+t1343059862
+s976
+
+N/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/build/MonoMac1.build/MonoMac/MonoMac1.build/Objects-normal/i386/MainWindow-9AE896F9D19D97C5.o
+t1343059862
+s984
+
+N/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/build/MonoMac1.build/MonoMac/MonoMac1.build/Objects-normal/i386/MainWindowController-8C9B94B83BFB94C8.o
+t2
+s0
+
+N/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/build/MonoMac1.build/MonoMac/MonoMac1.build/Objects-normal/i386/MonoMac1.LinkFileList
+c00000000500D779500000000000001FD
+t1343059861
+s509
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies364752661#364752661#0(353"[WARN]warning: no rule to process file '$(PROJECT_DIR)/MainWindow.h' of type sourcecode.c.h for architecture i386[WARN]warning: no rule to process file '$(PROJECT_DIR)/MainWindowController.h' of type sourcecode.c.h for architecture i386[WARN]warning: no rule to process file '$(PROJECT_DIR)/AppDelegate.h' of type sourcecode.c.h for architecture i3863(22@107"warning: no rule to process file '$(PROJECT_DIR)/MainWindow.h' of type sourcecode.c.h for architecture i386364752661#18446744073709551615#0#0(1@0"0(22@117"warning: no rule to process file '$(PROJECT_DIR)/MainWindowController.h' of type sourcecode.c.h for architecture i386364752661#18446744073709551615#0#0(1@0"0(22@108"warning: no rule to process file '$(PROJECT_DIR)/AppDelegate.h' of type sourcecode.c.h for architecture i386364752661#18446744073709551615#0#0(1@0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/MonoMac1.build/MonoMac/MonoMac1.build/Objects-normal/i386/AppDelegate-7713DF30742946CB.o /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s364752662.268776
+e364752662.740707
+r1
+xCompileC
+xbuild/MonoMac1.build/MonoMac/MonoMac1.build/Objects-normal/i386/AppDelegate-7713DF30742946CB.o
+x/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@93"Compile /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/AppDelegate.m364752662#364752662#0(0"0(0#0#85"/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/AppDelegate.m7665811764220747776#1742"    cd /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/build/MonoMac1.build/MonoMac/MonoMac1.build/MonoMac1-generated-files.hmap -I/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/build/MonoMac1.build/MonoMac/MonoMac1.build/MonoMac1-own-target-headers.hmap -I/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/build/MonoMac1.build/MonoMac/MonoMac1.build/MonoMac1-all-target-headers.hmap -iquote /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/build/MonoMac1.build/MonoMac/MonoMac1.build/MonoMac1-project-headers.hmap -F/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/build/MonoMac -I/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/build/MonoMac/include -I/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/build/MonoMac1.build/MonoMac/MonoMac1.build/DerivedSources/i386 -I/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/build/MonoMac1.build/MonoMac/MonoMac1.build/DerivedSources -c /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/AppDelegate.m -o /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/build/MonoMac1.build/MonoMac/MonoMac1.build/Objects-normal/i386/AppDelegate-7713DF30742946CB.o0#
+
+CCompileC build/MonoMac1.build/MonoMac/MonoMac1.build/Objects-normal/i386/MainWindow-9AE896F9D19D97C5.o /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindow.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s364752661.293768
+e364752662.268150
+r1
+xCompileC
+xbuild/MonoMac1.build/MonoMac/MonoMac1.build/Objects-normal/i386/MainWindow-9AE896F9D19D97C5.o
+x/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindow.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@92"Compile /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindow.m364752661#364752662#0(0"0(0#0#84"/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindow.m7011382714990145536#1740"    cd /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/build/MonoMac1.build/MonoMac/MonoMac1.build/MonoMac1-generated-files.hmap -I/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/build/MonoMac1.build/MonoMac/MonoMac1.build/MonoMac1-own-target-headers.hmap -I/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/build/MonoMac1.build/MonoMac/MonoMac1.build/MonoMac1-all-target-headers.hmap -iquote /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/build/MonoMac1.build/MonoMac/MonoMac1.build/MonoMac1-project-headers.hmap -F/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/build/MonoMac -I/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/build/MonoMac/include -I/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/build/MonoMac1.build/MonoMac/MonoMac1.build/DerivedSources/i386 -I/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/build/MonoMac1.build/MonoMac/MonoMac1.build/DerivedSources -c /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindow.m -o /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/build/MonoMac1.build/MonoMac/MonoMac1.build/Objects-normal/i386/MainWindow-9AE896F9D19D97C5.o0#
+
+CCompileC build/MonoMac1.build/MonoMac/MonoMac1.build/Objects-normal/i386/MainWindowController-8C9B94B83BFB94C8.o /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindowController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s364752661.306620
+e364752662.269861
+r0
+xCompileC
+xbuild/MonoMac1.build/MonoMac/MonoMac1.build/Objects-normal/i386/MainWindowController-8C9B94B83BFB94C8.o
+x/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindowController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindowController.m:8:
+o/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindowController.h:14:2: error: unknown type name 'WebView'
+o         WebView *__Web;
+o         ^
+o/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindowController.m:13:13: error: property implementation must have its declaration in interface 'MainWindowController'
+o @synthesize _Web = __Web;
+o             ^
+oIn file included from /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindowController.m:8:
+o/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindowController.h:18:48: warning: property '__Web' requires method '__Web' to be defined - use @synthesize, @dynamic or provide a method implementation
+o @property (nonatomic, retain) IBOutlet NSView *__Web;
+o                                                ^
+o/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindowController.m:10:1: note: implementation is here
+o @implementation MainWindowController
+o ^
+oIn file included from /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindowController.m:8:
+o/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindowController.h:18:48: warning: property '__Web' requires method 'set__Web:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o @property (nonatomic, retain) IBOutlet NSView *__Web;
+o                                                ^
+o/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindowController.m:10:1: note: implementation is here
+o @implementation MainWindowController
+o ^
+o2 warnings and 2 errors generated.
+lSLF07#2@102"Compile /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindowController.m364752661#364752662#0(1818"In file included from /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindowController.m:8:/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindowController.h:14:2: error: unknown type name 'WebView'         WebView *__Web;         ^/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindowController.m:13:13: error: property implementation must have its declaration in interface 'MainWindowController' @synthesize _Web = __Web;             ^In file included from /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindowController.m:8:/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindowController.h:18:48: warning: property '__Web' requires method '__Web' to be defined - use @synthesize, @dynamic or provide a method implementation @property (nonatomic, retain) IBOutlet NSView *__Web;                                                ^/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindowController.m:10:1: note: implementation is here @implementation MainWindowController ^In file included from /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindowController.m:8:/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindowController.h:18:48: warning: property '__Web' requires method 'set__Web:' to be defined - use @synthesize, @dynamic or provide a method implementation @property (nonatomic, retain) IBOutlet NSView *__Web;                                                ^/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindowController.m:10:1: note: implementation is here @implementation MainWindowController ^2 warnings and 2 errors generated.4(4@27"Unknown type name 'WebView'364752662#120#136#2(7@119"In file included from /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindowController.m:8:364752662#0#120#0(6@94"/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindowController.m364751816#8#0#8#0#0"0(13@125"Unknown type name 'WebView' in /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindowController.h364752662#18446744073709551615#0#0(6@94"/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindowController.h364752661#14#2#0#0#0"0(6@94"/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindowController.h364752661#14#2#0#0#19"unknown type name *0(4@85"Property implementation must have its declaration in interface 'MainWindowController'364752662#292#195#0(6@94"/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindowController.m364751816#13#13#0#0#64"property implementation must have its declaration in interface *0(22@117"Property '__Web' requires method '__Web' to be defined - use @synthesize, @dynamic or provide a method implementation364752662#649#229#3(7@119"In file included from /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindowController.m:8:364752662#18446744073709551615#0#0(6@94"/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindowController.m364751816#8#0#8#0#0"0(13@215"Property '__Web' requires method '__Web' to be defined - use @synthesize, @dynamic or provide a method implementation in /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindowController.h364752662#18446744073709551615#0#0(6@94"/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindowController.h364752661#18#48#0#0#0"0(13@22"Implementation is here364752662#983#130#0(6@94"/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindowController.m364751816#10#1#0#0#22"implementation is here0(6@94"/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindowController.h364752661#18#48#0#0#105"property * requires method * to be defined - use @synthesize, @dynamic or provide a method implementation0(22@121"Property '__Web' requires method 'set__Web:' to be defined - use @synthesize, @dynamic or provide a method implementation364752662#1274#233#3(7@119"In file included from /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindowController.m:8:364752662#18446744073709551615#0#0(6@94"/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindowController.m364751816#8#0#8#0#0"0(13@219"Property '__Web' requires method 'set__Web:' to be defined - use @synthesize, @dynamic or provide a method implementation in /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindowController.h364752662#18446744073709551615#0#0(6@94"/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindowController.h364752661#18#48#0#0#0"0(13@22"Implementation is here364752662#1612#130#0(6@94"/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindowController.m364751816#10#1#0#0#22"implementation is here0(6@94"/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindowController.h364752661#18#48#0#0#105"property * requires method * to be defined - use @synthesize, @dynamic or provide a method implementation0(0#0#94"/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindowController.m8617915520#1760"    cd /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/build/MonoMac1.build/MonoMac/MonoMac1.build/MonoMac1-generated-files.hmap -I/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/build/MonoMac1.build/MonoMac/MonoMac1.build/MonoMac1-own-target-headers.hmap -I/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/build/MonoMac1.build/MonoMac/MonoMac1.build/MonoMac1-all-target-headers.hmap -iquote /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/build/MonoMac1.build/MonoMac/MonoMac1.build/MonoMac1-project-headers.hmap -F/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/build/MonoMac -I/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/build/MonoMac/include -I/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/build/MonoMac1.build/MonoMac/MonoMac1.build/DerivedSources/i386 -I/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/build/MonoMac1.build/MonoMac/MonoMac1.build/DerivedSources -c /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindowController.m -o /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/build/MonoMac1.build/MonoMac/MonoMac1.build/Objects-normal/i386/MainWindowController-8C9B94B83BFB94C8.o1#
+
+CCompileXIB /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainMenu.xib
+s364752662.741627
+e364752663.104847
+r1
+xCompileXIB
+x/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainMenu.xib
+lSLF07#2@23"CompileXIB MainMenu.xib364752662#364752663#0(0"0(0#0#84"/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainMenu.xib8605458944#438"    cd /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/build/MonoMac/MonoMac1.app/Contents/Resources/MainMenu.nib /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCompileXIB /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindow.xib
+s364752662.740802
+e364752663.068318
+r1
+xCompileXIB
+x/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib364752662#364752663#0(0"0(0#0#86"/Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindow.xib8605583456#442"    cd /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/build/MonoMac/MonoMac1.app/Contents/Resources/MainWindow.nib /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/MainWindow.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CLd /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/build/MonoMac/MonoMac1.app/Contents/MacOS/MonoMac1 normal i386
+r0
+
+CTouch /Users/miguelsilva/Desktop/Proyectos/Mono/MonoMac1/MonoMac1/obj/Xcode/0/build/MonoMac/MonoMac1.app
+r0
+

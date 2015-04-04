@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.0</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B1824508-33DD-4693-9133-447E3AB165F4}</ProjectGuid>
+    <Target>Bin</Target>
+    <Language>CPP</Language>
+    <Compiler>
+      <Compiler ctype="GppCompiler" />
+    </Compiler>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineSymbols>DEBUG MONODEVELOP</DefineSymbols>
+    <SourceDirectory>.</SourceDirectory>
+    <CompileTarget>Bin</CompileTarget>
+    <Externalconsole>true</Externalconsole>
+    <OutputName>LibLDB</OutputName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release</OutputPath>
+    <OptimizationLevel>3</OptimizationLevel>
+    <DefineSymbols>MONODEVELOP</DefineSymbols>
+    <SourceDirectory>.</SourceDirectory>
+    <Externalconsole>true</Externalconsole>
+    <OutputName>LibLDB</OutputName>
+    <CompileTarget>Bin</CompileTarget>
+    <CustomCommands>
+      <CustomCommands>
+        <Command type="Build" />
+      </CustomCommands>
+    </CustomCommands>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="main.cpp" />
+    <Compile Include="Debug.cpp" />
+    <Compile Include="ReadClass.cpp">
+      <DeployService-Deploy>true</DeployService-Deploy>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="main.h" />
+    <None Include="ReadClass.h" />
+    <None Include="Debug.h" />
+    <None Include="RPG.h" />
+    <None Include="LDB_Chunks.h" />
+  </ItemGroup>
+</Project>

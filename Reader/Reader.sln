@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2857B73E-F847-4B02-9238-064979017E93}") = "Reader", "Reader\Reader.cproj", "{04A5F4D9-7F18-4D86-A0A1-21E43394AF9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04A5F4D9-7F18-4D86-A0A1-21E43394AF9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04A5F4D9-7F18-4D86-A0A1-21E43394AF9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04A5F4D9-7F18-4D86-A0A1-21E43394AF9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04A5F4D9-7F18-4D86-A0A1-21E43394AF9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Reader\Reader.cproj
+	EndGlobalSection
+EndGlobal
