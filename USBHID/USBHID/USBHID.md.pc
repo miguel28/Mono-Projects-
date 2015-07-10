@@ -1,0 +1,5 @@
+Name: USBHID
+Description: 
+Version: 0.1
+Libs: -L"/Users/mike/Projects/USBHID/USBHID/bin/Debug" -lUSBHID
+Cflags: -I"/Users/mike/Projects/USBHID/USBHID"

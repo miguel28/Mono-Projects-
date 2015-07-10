@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RFStateViewer", "RFStateViewer\RFStateViewer.csproj", "{935B543C-EE7A-4617-8A5D-3C6DE20F9613}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{935B543C-EE7A-4617-8A5D-3C6DE20F9613}.Debug|x86.ActiveCfg = Debug|x86
+		{935B543C-EE7A-4617-8A5D-3C6DE20F9613}.Debug|x86.Build.0 = Debug|x86
+		{935B543C-EE7A-4617-8A5D-3C6DE20F9613}.Release|x86.ActiveCfg = Release|x86
+		{935B543C-EE7A-4617-8A5D-3C6DE20F9613}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = RFStateViewer\RFStateViewer.csproj
+	EndGlobalSection
+EndGlobal

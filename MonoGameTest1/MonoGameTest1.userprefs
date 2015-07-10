@@ -1,0 +1,20 @@
+﻿<Properties MonoDevelop.MonoMac.LastXamMacNagTime="05/08/2014 04:31:22">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MonoGameTest1/MXNA/MK_Input.cs">
+    <Files>
+      <File FileName="../HidApiTest/HidApiTest/USBInterface.cs" Line="1" Column="1" />
+      <File FileName="../HidApiTest/HidApiTest/Program.cs" Line="1" Column="1" />
+      <File FileName="MonoGameTest1/Game1.cs" Line="49" Column="33" />
+      <File FileName="MonoGameTest1/MXNA/MK_3dObject.cs" Line="1" Column="1" />
+      <File FileName="MonoGameTest1/WatchdogClass.cs" Line="1" Column="1" />
+      <File FileName="MonoGameTest1/MXNA/MK_Input.cs" Line="175" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="MonoGameTest1/Game1.cs" line="89" offsetX="728" offsetY="1020" expression="skyboxTextures" liveUpdate="False" />
+    <Watch file="MonoGameTest1/MXNA/MK_3dObject.cs" line="33" offsetX="555" offsetY="480" expression="currentEffect" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>

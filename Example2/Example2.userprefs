@@ -1,0 +1,14 @@
+﻿<Properties MonoDevelop.MonoMac.LastXamMacNagTime="08/17/2013 20:35:39">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Example2/Game1.cs">
+    <Files>
+      <File FileName="Example2/Game1.cs" Line="66" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../MonoGameTest1/MonoGameTest1/Game1.cs" line="89" offsetX="728" offsetY="1020" expression="skyboxTextures" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>

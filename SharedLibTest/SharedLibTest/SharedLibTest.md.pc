@@ -1,0 +1,5 @@
+Name: SharedLibTest
+Description: 
+Version: 0.1
+Libs: -L"/Users/mike/Projects/SharedLibTest/SharedLibTest/bin/Release" -lSharedLibTest
+Cflags: -I"/Users/mike/Projects/SharedLibTest/SharedLibTest"

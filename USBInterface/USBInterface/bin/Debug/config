@@ -1,0 +1,6 @@
+
+<configuration>
+    <dllmap dll="hidapi.dll" target="libhidapi.dylib" />
+</configuration>
+
+

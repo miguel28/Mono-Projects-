@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DylibInvoke/LibTestWrapper.cs">
+    <Files>
+      <File FileName="DylibInvoke/Program.cs" Line="1" Column="1" />
+      <File FileName="DylibInvoke/LibTestWrapper.cs" Line="341" Column="32" />
+      <File FileName="DylibInvoke/NativeMethods.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="DylibInvoke" expanded="True">
+            <Node name="References" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>10.0.0</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A8B2D0D9-69A1-45BE-8157-F13B461B8035}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>MasterProg</RootNamespace>
+    <AssemblyName>Master-Prog++</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <ConsolePause>false</ConsolePause>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <ConsolePause>false</ConsolePause>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System" />
+    <Reference Include="System.Drawing" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DeviceData.cs" />
+    <Compile Include="DeviceFile.cs" />
+    <Compile Include="DialogAbout.cs" />
+    <Compile Include="DialogCalibrate.cs" />
+    <Compile Include="DialogCustomBaud.cs" />
+    <Compile Include="DialogDevFile.cs" />
+    <Compile Include="DialogLogic.cs" />
+    <Compile Include="DialogPK2Go.cs" />
+    <Compile Include="DialogTrigger.cs" />
+    <Compile Include="DialogTroubleshoot.cs" />
+    <Compile Include="DialogUART.cs" />
+    <Compile Include="DialogUnitSelect.cs" />
+    <Compile Include="DialogUserIDs.cs" />
+    <Compile Include="DialogVDDErase.cs" />
+    <Compile Include="FromMultiWinEEData.cs" />
+    <Compile Include="FromMultiWinProgMem.cs" />
+    <Compile Include="FromProgUSB.cs" />
+    <Compile Include="FromTestMemory.cs" />
+    <Compile Include="ImportExportHex.cs" />
+    <Compile Include="PIC32MXFuntions.cs" />
+    <Compile Include="ProgCommand.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="PUSBBootLoader.cs" />
+    <Compile Include="SetOSCCAL.cs" />
+    <Compile Include="USB.cs" />
+    <Compile Include="Utilities.cs" />
+    <Compile Include="Constants.cs" />
+    <Compile Include="DelegateBlankCheck.cs" />
+    <Compile Include="DelegateErase.cs" />
+    <Compile Include="DelegateMemEdited.cs" />
+    <Compile Include="DelegateMultiEEMemClosed.cs" />
+    <Compile Include="DelegateMultiProgMemClosed.cs" />
+    <Compile Include="DelegateOpenProgToGoGuide.cs" />
+    <Compile Include="DelegateRead.cs" />
+    <Compile Include="DelegateResetStatusBar.cs" />
+    <Compile Include="DelegateStatusWin.cs" />
+    <Compile Include="DelegateStepStatusBar.cs" />
+    <Compile Include="DelegateUpdateGUI.cs" />
+    <Compile Include="DelegateVddCallback.cs" />
+    <Compile Include="DelegateVerify.cs" />
+    <Compile Include="DelegateWrite.cs" />
+    <Compile Include="DelegateWriteCal.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Master_Prog.Properties.Resources.resources" />
+  </ItemGroup>
+</Project>
